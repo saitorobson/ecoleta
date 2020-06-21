@@ -1,0 +1,10 @@
+{
+  "name": "Supermercado Mont Serrat",
+  "email": "contato@montserrat.com.br",
+  "whatsapp": "119992838929",
+  "latitude": "-42.81273213",
+  "longitude": "-37.19238112",
+  "city": "Jundiai",
+  "uf": "SP",
+  "items": [1, 2, 6]
+}
